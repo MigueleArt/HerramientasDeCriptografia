@@ -1,0 +1,4 @@
+{
+  "name": "CryptoLab",
+  "description": "Una suite educativa interactiva para aprender y probar algoritmos criptográficos: AES (Simétrico), RSA (Asimétrico) y SHA-256 (Hashing)."
+}
